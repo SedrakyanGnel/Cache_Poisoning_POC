@@ -1,0 +1,11 @@
+{
+    "name": "minimal-package",
+    "version": "1.0.0",
+    "description": "A minimal npm package for testing purposes",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+}
