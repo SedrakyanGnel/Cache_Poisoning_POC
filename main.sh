@@ -1,1 +1,1 @@
-sudo echo "Nothing special :) You will never get hacked"
+sudo echo "You have got hacked, not really, but could :("
