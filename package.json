@@ -1,11 +1,14 @@
 {
-    "name": "minimal-package",
+    "name": "cache-poison-test",
     "version": "1.0.0",
-    "description": "A minimal npm package for testing purposes",
+    "description": "A minimal npm package for cache poisoning PoC",
     "main": "index.js",
+    "bin": {
+        "cache-poison-test": "index.js"
+    },
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Your Name",
+    "author": "Not Hacker",
     "license": "ISC"
 }
